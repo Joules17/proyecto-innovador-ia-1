@@ -5,7 +5,7 @@ Este proyecto hace parte del curso **Proyecto 1 de Innovación Tecnológica de l
 
 ## Miembros
 
-**Instructor: [Milton Sarria](https://github.com/miltonsarria)(@miltonsarria)**
+**Instructor: [Milton Sarria](https://github.com/miltonsarria) (@miltonsarria)**
 
 #### Estudiantes:
 
