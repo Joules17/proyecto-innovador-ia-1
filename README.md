@@ -11,7 +11,7 @@ Este proyecto hace parte del curso **Proyecto 1 de Innovación Tecnológica de l
 
 |Codigo   |Nombre     |  Github   | 
 |---------|---------|-----------------|
-||[William S](https://github.com/[github handle])| @johnDoe        |
+||[William S](https://github.com/777wills)| @777wills   |
 ||[Holman Sanchez](https://github.com/holsaf) |     @holsaf    |
 ||[Juan Lievano](https://github.com/JuanLiev) |     @JuanLiev    |
 |A00419615|[Julian Salamanca](https://github.com/Joules17) |     @Joules17    |
