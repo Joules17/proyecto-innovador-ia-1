@@ -1,9 +1,9 @@
 # Proyecto 1 Innovación Tecnologia IA
 Este proyecto hace parte del curso **Proyecto 1 de Innovación Tecnológica de la Maestría en Inteligencia Artificial Aplicada** de la Universidad Icesi, Cali, Colombia.
 
-#### -- Project Status: Active
+#### Estado del proyecto: Activo
 
-## Contributing Members
+## Miembros
 
 **Instructor: [Milton Sarria]([https://github.com/[github handle]](https://github.com/miltonsarria))(@miltonsarria)**
 
