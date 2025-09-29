@@ -1,4 +1,4 @@
-# Proyecto 1 Innovación Tecnologia IA
+# Proyecto 1 Innovación Tecnológica IA
 Este proyecto hace parte del curso **Proyecto 1 de Innovación Tecnológica de la Maestría en Inteligencia Artificial Aplicada** de la Universidad Icesi, Cali, Colombia.
 
 #### Estado del proyecto: Activo
