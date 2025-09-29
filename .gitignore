@@ -1,0 +1,7 @@
+## virtual env
+venv/
+.env/
+
+## data
+/data/*
+!/data/.gitkeep
