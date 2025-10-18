@@ -1,20 +1,20 @@
-# Proyecto 1 Innovación Tecnologia IA
+# Proyecto 1 Innovación Tecnológica IA
 Este proyecto hace parte del curso **Proyecto 1 de Innovación Tecnológica de la Maestría en Inteligencia Artificial Aplicada** de la Universidad Icesi, Cali, Colombia.
 
 #### Estado del proyecto: Activo
 
 ## Miembros
 
-**Instructor: [Milton Sarria]([https://github.com/[github handle]](https://github.com/miltonsarria))(@miltonsarria)**
+**Instructor: [Milton Sarria](https://github.com/miltonsarria) (@miltonsarria)**
 
 #### Estudiantes:
 
-|Codigo   |Nombre     |  Github   | 
-|---------|---------|-----------------|
-||[William S](https://github.com/[github handle])| @johnDoe        |
-||[Holman Sanchez](https://github.com/holsaf) |     @holsaf    |
-||[Juan Lievano](https://github.com/JuanLiev) |     @JuanLiev    |
-|A00419615|[Julian Salamanca](https://github.com/Joules17) |     @Joules17    |
+| Codigo    | Nombre                                          | Github    |
+| --------- | ----------------------------------------------- | --------- |
+| A00417111 | [William Suaza](https://github.com/777wills)    | @777wills |
+|           | [Holman Sanchez](https://github.com/holsaf)     | @holsaf   |
+|           | [Juan Lievano](https://github.com/JuanLiev)     | @JuanLiev |
+| A00419615 | [Julian Salamanca](https://github.com/Joules17) | @Joules17 |
 
 
 
